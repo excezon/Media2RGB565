@@ -1,8 +1,9 @@
 # Media2RGB565
 ## Project Description
-This is a user-friendly visual desktop tool designed for embedded development and display screen debugging, which can efficiently convert common image and video files into RGB565 format binary bin files.
+This is a visual desktop tool for embedded development and display screen debugging. It converts common images and videos into RGB565 format binary bin files, and it has a Chinese interface.
 
-The tool provides intuitive visual operations to meet the resource conversion requirements of LCD/OLED displays. It supports custom target resolution, image cropping, position offset adjustment, and one-click batch export of multiple files, solving the pain points of manual format conversion and parameter adjustment in embedded development scenarios.
+It has simple visual operations to meet the resource conversion needs of LCD/OLED displays. Supports custom resolution, image cropping, position adjustment, and one-click batch export of multiple files, solving the trouble of manual format conversion and parameter adjustment in embedded development.
+
 ## Screenshot
 ![Software Screenshot](https://github.com/excezon/RGB565Tool/raw/main/screenshot.png)
 
