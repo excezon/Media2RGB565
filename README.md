@@ -3,6 +3,8 @@
 This is a user-friendly visual desktop tool designed for embedded development and display screen debugging, which can efficiently convert common image and video files into RGB565 format binary bin files.
 
 The tool provides intuitive visual operations to meet the resource conversion requirements of LCD/OLED displays. It supports custom target resolution, image cropping, position offset adjustment, and one-click batch export of multiple files, solving the pain points of manual format conversion and parameter adjustment in embedded development scenarios.
+## Screenshot
+![Software Screenshot](https://github.com/excezon/RGB565Tool/raw/main/screenshot.png)
 
 ## Core Features
 ✅ Convert images / videos to RGB565 binary bin files and RGB565 arrays
