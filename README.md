@@ -6,7 +6,11 @@ The tool provides intuitive visual operations to meet the resource conversion re
 
 ## Core Features
 ✅ Convert images / videos to RGB565 binary bin files and RGB565 arrays
+
 ✅ Support custom resolution adaptation for different display screens
+
 ✅ Visual image cropping and position adjustment (offset/center alignment)
+
 ✅ One-click batch processing & export for multiple files
+
 ✅ Simple GUI, easy to operate for developers and beginners
