@@ -5,7 +5,7 @@ This is a visual desktop tool for embedded development and display screen debugg
 It has simple visual operations to meet the resource conversion needs of LCD/OLED displays. Supports custom resolution, image cropping, position adjustment, and one-click batch export of multiple files, solving the trouble of manual format conversion and parameter adjustment in embedded development.
 
 ## Screenshot
-![Software Screenshot](https://github.com/excezon/RGB565Tool/raw/main/screenshot.png)
+![Software Screenshot](https://github.com/excezon/Media2RGB565/raw/main/screenshot.png)
 
 ## Core Features
 ✅ Convert images / videos to RGB565 binary bin files and RGB565 arrays
