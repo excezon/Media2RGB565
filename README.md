@@ -1,4 +1,4 @@
-# Media2RGB565
+# media2rgb565
 ## Project Description
 This is a visual desktop tool for embedded development and display screen debugging. It converts common images and videos into RGB565 format binary bin files, and it has a Chinese interface.
 
